@@ -1,0 +1,32 @@
+{
+  "name": "vue-youtube",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "chart.js": "^2.9.3",
+    "core-js": "^2.6.5",
+    "firebase": "^7.17.1",
+    "lodash": "^4.17.11",
+    "materialize-css": "^1.0.0-rc.2",
+    "register-service-worker": "^1.6.2",
+    "vue": "^2.6.6",
+    "vue-chartjs": "^3.5.0",
+    "vue-meta": "^2.4.0",
+    "vue-router": "^3.0.1",
+    "vuejs-paginate": "^2.1.0",
+    "vuelidate": "^0.7.4",
+    "vuex": "^3.0.1"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.5.0",
+    "@vue/cli-plugin-pwa": "^3.5.0",
+    "@vue/cli-service": "^3.5.0",
+    "node-sass": "^4.14.1",
+    "sass-loader": "^7.1.0",
+    "vue-template-compiler": "^2.5.21"
+  }
+}
