@@ -1,4 +1,4 @@
-# vue-youtube
+# vue-crm-firebase
 
 ## Project setup
 ```
